@@ -12,5 +12,3 @@ Aqui va una **descripción** del *repositorio*.
 num = 10
 print("Num vale=", num)
 ```
-
-
