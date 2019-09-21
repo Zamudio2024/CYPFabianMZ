@@ -1,6 +1,8 @@
-A = int(print("primer numero:"))
-B = int(print("segundo numero:"))
-C = int(print("tercer numero:"))
-D = int(print("cuarto numero:"))
-
-
+A = int(input("primer numero:"))
+B = int(input("segundo numero:"))
+C = int(input("tercer numero:"))
+D = int(input("cuarto numero:"))
+print(D)
+print(C)
+print(B)
+print(A)
