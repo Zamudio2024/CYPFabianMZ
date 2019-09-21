@@ -5,5 +5,5 @@ D = int(input("cuarto numero:"))
 print(D)
 print(C)
 print(B)
-print(h)
+print(A)
 
