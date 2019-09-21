@@ -4,6 +4,6 @@ CAL2 = float(input("calificaion 2 del alumno:"))
 CAL3 = float(input("calificaion 3 del alumno:"))
 CAL4 = float(input("calificaion 4 del alumno:"))
 CAL5 = float(input("calificaion 5 del alumno:"))
-PRO = (CAL1 + CAL2 + CAL3 + CAL4 + CAL5) / 5
+PRO = (CAL1 + CAL2 + CAL3 + CAL4 + CAL5) / 4
 print(f"Matricula del alumno: {MAT}")
 print(f"Promedio del alumno: {PRO}")
