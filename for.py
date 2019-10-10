@@ -1,2 +1,2 @@
 for v in range(1 , 11 , 1):
-	print(v)
+	print(f"5 x {v} = {5*v}")
