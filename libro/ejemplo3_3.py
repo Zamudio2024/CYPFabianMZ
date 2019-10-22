@@ -1,5 +1,5 @@
 CUECER =0
-N = int(input("Dame unh numero entero positivo:"))
+N = int(input("Dame un numero entero positivo:"))
 for i in range(0, N, 1):
     NUM = int(input("Ingresa un numero entero:"))
     if NUM ==0:
